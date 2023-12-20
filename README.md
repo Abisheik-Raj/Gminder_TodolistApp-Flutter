@@ -1,6 +1,6 @@
 Gminder is a feature-rich Flutter to-do list app designed to help you organize your tasks efficiently. It leverages the power of Flutter for cross-platform development and utilizes Hive for local data storage on your device.
 
-[App Screenshot] (Screenshots/Gminder.jpeg)
+[App Screenshot](Screenshots/Gminder.jpeg)
 
 Features:
 Intuitive Interface: Gminder offers a user-friendly interface, making task management a breeze.
